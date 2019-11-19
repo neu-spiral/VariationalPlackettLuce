@@ -14,7 +14,7 @@ Please cite this paper if you intend to use this code for your research.
 
 
 
-## mathpackage.py ##
+## functionpackage.py ##
 The python file includes the following modules:
 ```
 numpy
