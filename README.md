@@ -2,10 +2,13 @@
 The present code computes the parameter vector and metric result under the Plackett Luce model.
 
 
-==========
-The code in this repository provides a framework for variational inference computation ranking data. In particular, the algorithms implemented are described in the paper 
+The code in this repository provides a framework for variational inference computation ranking data. In particular, the algorithms implemented are described in the paper: 
 
-Simulator of experiments presented in ["Variational Inference from Ranked Samples with Features"](https://ece.northeastern.edu/fac-ece/ioannidis/static/pdf/2019/C_Guo_Variational_ACML_2019.pdf), Yuan Guo, Jennifer Dy, Deniz Erdogmus, Jayashree Kalpathy-Cramer, Susan Ostmo, J.Peter Campbell, Michael F.Chiang and Stratis Ioannidis. In Asian Conference on Machine Learning, pp. 599-614. 2019. Please cite this paper if you intend to use this code for your research.
+  > ["Variational Inference from Ranked Samples with Features"](https://ece.northeastern.edu/fac-ece/ioannidis/static/pdf/2019/C_Guo_Variational_ACML_2019.pdf), Yuan Guo, Jennifer Dy, Deniz Erdogmus,
+  > Jayashree Kalpathy-Cramer, Susan Ostmo, J.Peter Campbell, Michael F.Chiang and Stratis Ioannidis. In Asian Conference on   
+  > Machine Learning, pp. 599-614. 2019. 
+  
+Please cite this paper if you intend to use this code for your research.
 
 
 
